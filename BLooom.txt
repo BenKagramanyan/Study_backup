@@ -4,5 +4,10 @@ If u dont -
 well done ..
 or ...
 maybe not
+<<<<<<< HEAD
 dfvjdkposla[p
 ++++++++++++++++++++++++++++++++++++++KFE
+=======
+ûחלמעûצץצ
+רגדאטצ0
+>>>>>>> parent of aa2d346 (SOMETHING)
